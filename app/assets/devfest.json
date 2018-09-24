@@ -1,8 +1,8 @@
 {
   "agenda": {
     "day1": [
-      { "id": 1, "label": "9h00" },
-      { "id": 2, "label": "9h15" },
+      { "id": 1, "label": "8h45" },
+      { "id": 2, "label": "9h00" },
       { "id": 3, "label": "9h40" },
       { "id": 41, "label": "10h05" },
       { "id": 42, "label": "10h30" },
@@ -66,7 +66,7 @@
       "name": "Rendez votre service mesh intelligent avec Istio",
       "description": "<p>Le déploiement d’une architecture microservice en production pose de nombreuses questions. Comment gérer la découverte des services? Comment gérer le load balancing? Comment gérer les erreurs?<br><br>L’approche traditionnelle est celle du “smart endpoints and dumb pipes” énoncée par Martin Fowler et selon laquelle ces problématiques doivent êtres gérées par les microservices eux même. Par exemple on va utiliser Hystrix comme circuit breaker dans les services java mais comment faire si un service est écrit en Ruby et ne dispose pas de librairie équivalente?<br><br>Istio propose de rendre nos tuyaux intelligents tout en gardant la configuration au plus près de nos services.</p>",
       "difficulty": 1,
-      "type": "quickie",
+      "type": "conference",
       "track": "cloud",
       "speaker": [61, 74],
       "agenda": { "day": 1, "hour": 2 }
@@ -189,7 +189,7 @@
       "difficulty": 1,
       "type": "quickie",
       "track": "web",
-      "speaker": [12],
+      "speaker": [11, 12],
       "agenda": { "day": 1, "hour": 16 }
     },
     {
